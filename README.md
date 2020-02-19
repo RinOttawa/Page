@@ -1,1 +1,1 @@
-# rinottawa.github.io
+# RinOttawa.github.io
