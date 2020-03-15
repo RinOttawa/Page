@@ -1,24 +1,18 @@
-/* в CSS комментарии обозначаются символами  */
+
 body {
 	background-color: black;
 	color: white;
 	font: 16px/26px "Courier", "monospace", "sans-serif";
 }
 
-
 header,
 footer {
   background-color: black;
-  border: 2px solid white;
+  border: 1.5px solid white;
+  font-weight: bold;
 }
 
-header {
-	font-weight: bold;
-	/*font-variant: small-caps;*/
-}
-
-.2 {
-	width: 100%;
 
 
-}
+.nav-link {color: white;}
+.nav-item  a:hover {color: DarkMagenta;}
